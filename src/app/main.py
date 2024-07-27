@@ -5,7 +5,7 @@ import streamlit as st
 
 sns.set(context='talk', style='ticks')
 
-st.set_page_config(
+st.set_page_cjupyter labonfig(
      page_title="???????",
      page_icon=":?:",
      layout="wide",
